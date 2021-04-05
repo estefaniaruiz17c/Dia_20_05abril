@@ -1,0 +1,30 @@
+Ejercicios de manejo de fechas del texto 'fecha_hora2.txt'
+
+- Las fechas del segundo texto de la 1 a la 4 en orden: 
+
+(1989,05,23,12,10,03)
+(2002,10,14,20,38,51)
+(2016,09,30,07,22,00)
+(2020,04,03,10,16,36)
+
+- Ejercicios con funciones: 
+
+- time(): 
+
+La hora 1 representada de la manera 1: 12:10:03
+Hora 1 representada de la manera 2: 12 y 10 del día
+
+- time(), .hour(), .minute(), .second(): 
+
+Hora 2: 20:38:51
+Horas de la hora 2: 20
+Minutos de la hora 2: 38
+Segundos de la hora 2: 51
+
+- Comparación fecha 1 y fecha 2: 
+
+Es la hora 1 mayor que la hora 2?: 
+False
+
+Es la hora 3 menor que la hora 4?: 
+True
